@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa4cd369-5476-4db8-9ce3-907f54c49a27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/hex_spiral.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/square_spiral.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/turtle_circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/KidWe_CodingClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KidWe_CodingClass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nRlt3GpgPdp1pN7OhOuzPSvB1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.baccarat_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_shapes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dino_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game_001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game_002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.go_go_go.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hanoi_tower_stack.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hanoi_tower_stack_movement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hex_spiral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.highest_lowest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pygame_image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorting_bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square_spiral.executor&quot;: &quot;Run&quot;,
+    &quot;Python.story_teller.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variable_assignment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/PycharmProjects/KidWe_CodingClass/Algorithm/img&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\KidWe_CodingClass\Algorithm\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\KidWe_CodingClass\Algorithm" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa4cd369-5476-4db8-9ce3-907f54c49a27" name="Changes" comment="" />
+      <created>1728943981148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728943981148</updated>
+      <workItem from="1728943984055" duration="4402000" />
+      <workItem from="1728958170956" duration="2951000" />
+      <workItem from="1729047061983" duration="812000" />
+      <workItem from="1729050017297" duration="664000" />
+      <workItem from="1729483070484" duration="3530000" />
+      <workItem from="1729661654735" duration="8000" />
+      <workItem from="1730147447319" duration="49000" />
+      <workItem from="1730147571775" duration="190000" />
+      <workItem from="1730165616560" duration="24000" />
+      <workItem from="1730175655473" duration="1620000" />
+      <workItem from="1730196105754" duration="1000" />
+      <workItem from="1730232706818" duration="109000" />
+      <workItem from="1730705185432" duration="6762000" />
+      <workItem from="1730751157268" duration="7105000" />
+      <workItem from="1730773047709" duration="4386000" />
+      <workItem from="1730867925950" duration="8000" />
+      <workItem from="1731967107981" duration="4451000" />
+      <workItem from="1732069112481" duration="10000" />
+      <workItem from="1734898975828" duration="655000" />
+      <workItem from="1735545256622" duration="5420000" />
+      <workItem from="1735675841172" duration="31000" />
+      <workItem from="1735675883108" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$story_teller.coverage" NAME="story_teller Coverage Results" MODIFIED="1730755316269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$game_001.coverage" NAME="game_001 Coverage Results" MODIFIED="1731967185610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$hanoi_tower_stack.coverage" NAME="hanoi_tower_stack Coverage Results" MODIFIED="1728944162397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$pygame_image.coverage" NAME="pygame_image Coverage Results" MODIFIED="1730774140538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$turtle_circle.coverage" NAME="turtle_circle Coverage Results" MODIFIED="1735555929376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$baccarat_01.coverage" NAME="baccarat_01 Coverage Results" MODIFIED="1731981043411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$square_spiral.coverage" NAME="square_spiral Coverage Results" MODIFIED="1735555813488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$hanoi_tower_stack_movement.coverage" NAME="hanoi_tower_stack_movement Coverage Results" MODIFIED="1730175713753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$game_002.coverage" NAME="game_002 Coverage Results" MODIFIED="1730751470893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$hex_spiral.coverage" NAME="hex_spiral Coverage Results" MODIFIED="1735555242435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$basic_while_loop.coverage" NAME="basic_while_loop Coverage Results" MODIFIED="1730773812287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$dino_3.coverage" NAME="dino_3 Coverage Results" MODIFIED="1734898996286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$highest_lowest.coverage" NAME="highest_lowest Coverage Results" MODIFIED="1728960265876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$variable_assignment.coverage" NAME="variable_assignment Coverage Results" MODIFIED="1730755485062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$go_go_go.coverage" NAME="go_go_go Coverage Results" MODIFIED="1730780243014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$basic_shapes.coverage" NAME="basic_shapes Coverage Results" MODIFIED="1730759278714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$sorting_bubble_sort.coverage" NAME="sorting_bubble_sort Coverage Results" MODIFIED="1728951349459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
