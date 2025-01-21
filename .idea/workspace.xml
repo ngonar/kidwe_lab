@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9244c8f2-908c-449a-9a7a-1a57970143d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/draw_shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/pygame_bouncing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/turtle_circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/turtle_equilateral_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/turtle_equilateral_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/turtle_rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/turtle_rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/turtle_star.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/turtle_star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/camel_case.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "last_opened_file_path": "/Users/iwansaputra/Documents/kidwe_lab",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
