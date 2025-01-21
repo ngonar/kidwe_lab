@@ -12,7 +12,7 @@ pencolor('red')
 #goto(-100,100)
 pendown()
 shape('turtle')
-for i in range(60):
+for i in range(1):
     draw_triangle(100)
     right(5)
 
