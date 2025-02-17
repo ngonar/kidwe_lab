@@ -12,3 +12,11 @@ print("Food : ", food)
 
 number = 7
 print(f"Number : {number}, Food : {food}, Song : {song}")
+
+
+
+
+for x in range(10):
+    for i in range(x):
+        print("* ", end="")
+    print("")

@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9244c8f2-908c-449a-9a7a-1a57970143d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/camel_case.py" afterDir="false" />
+    <list default="true" id="9244c8f2-908c-449a-9a7a-1a57970143d3" name="Changes" comment="camel case ok">
+      <change afterPath="$PROJECT_DIR$/Algorithm/max_spending.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/score_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/KidWe_CodingClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KidWe_CodingClass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/pygame_bouncing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/pygame_bouncing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/variable_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/variable_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyBrick/movement.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyBrick/movement.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +41,23 @@
     "Python.baccarat_01.executor": "Run",
     "Python.dino_3.executor": "Run",
     "Python.draw_shape.executor": "Run",
+    "Python.game_001.executor": "Run",
     "Python.go_go_go.executor": "Run",
     "Python.math_001.executor": "Run",
+    "Python.max_spending.executor": "Run",
+    "Python.pygame_bouncing.executor": "Run",
     "Python.pygame_image.executor": "Run",
+    "Python.score_dictionary.executor": "Run",
     "Python.turtle_circle.executor": "Run",
     "Python.turtle_equilateral_triangle.executor": "Run",
     "Python.turtle_rectangle.executor": "Run",
     "Python.turtle_spiral.executor": "Run",
     "Python.turtle_star.executor": "Run",
+    "Python.variable_assignment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/iwansaputra/Documents/kidwe_lab",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,23 +89,53 @@
       <workItem from="1734837119724" duration="2470000" />
       <workItem from="1734848106913" duration="5453000" />
       <workItem from="1734895871147" duration="8386000" />
+      <workItem from="1737518290638" duration="1000" />
+      <workItem from="1737853138272" duration="4905000" />
+      <workItem from="1737927157718" duration="654000" />
+      <workItem from="1739820362108" duration="849000" />
     </task>
+    <task id="LOCAL-00001" summary="camel case ok">
+      <option name="closed" value="true" />
+      <created>1737495049565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737495049565</updated>
+    </task>
+    <task id="LOCAL-00002" summary="camel case ok">
+      <option name="closed" value="true" />
+      <created>1737495053207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737495053207</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="camel case ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="camel case ok" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kidwe_lab$variable_assignment.coverage" NAME="variable_assignment Coverage Results" MODIFIED="1737853199346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$go_go_go.coverage" NAME="go_go_go Coverage Results" MODIFIED="1734811853819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$pygame_bouncing.coverage" NAME="pygame_bouncing Coverage Results" MODIFIED="1739821201514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$draw_shape.coverage" NAME="draw_shape Coverage Results" MODIFIED="1734896550656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$game_001.coverage" NAME="game_001 Coverage Results" MODIFIED="1739820546161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
     <SUITE FILE_PATH="coverage/kidwe_lab$turtle_rectangle.coverage" NAME="turtle_rectangle Coverage Results" MODIFIED="1734837159159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$pygame_image.coverage" NAME="pygame_image Coverage Results" MODIFIED="1734902397664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$pygame_image.coverage" NAME="pygame_image Coverage Results" MODIFIED="1739820433388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$baccarat_01.coverage" NAME="baccarat_01 Coverage Results" MODIFIED="1734899311950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$dino_3.coverage" NAME="dino_3 Coverage Results" MODIFIED="1734899388464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$turtle_spiral.coverage" NAME="turtle_spiral Coverage Results" MODIFIED="1734830284975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$max_spending.coverage" NAME="max_spending Coverage Results" MODIFIED="1737498713956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$score_dictionary.coverage" NAME="score_dictionary Coverage Results" MODIFIED="1737500445857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$turtle_circle.coverage" NAME="turtle_circle Coverage Results" MODIFIED="1734897676794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$go_go_go.coverage" NAME="go_go_go Coverage Results" MODIFIED="1734811853819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$turtle_equilateral_triangle.coverage" NAME="turtle_equilateral_triangle Coverage Results" MODIFIED="1734837473536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$turtle_star.coverage" NAME="turtle_star Coverage Results" MODIFIED="1734852078890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$draw_shape.coverage" NAME="draw_shape Coverage Results" MODIFIED="1734896550656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$math_001.coverage" NAME="math_001 Coverage Results" MODIFIED="1734819123056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
   </component>
 </project>
