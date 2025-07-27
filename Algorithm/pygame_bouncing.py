@@ -1,7 +1,7 @@
 import pygame
 from pygame.display import set_caption
 
-set_caption("KidWe Lab - Coding Class")
+set_caption("Coding Class")
 
 pygame.init()
 screen = pygame.display.set_mode((800, 500))

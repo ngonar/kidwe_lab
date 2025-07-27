@@ -54,7 +54,7 @@ def draw_the_dino(screen, dino_pos):
 
 
 if __name__ == '__main__':
-    set_caption("KidWe Lab - Coding Class")
+    set_caption("TNIS Coding Class")
 
     pygame.init()
     screen = pygame.display.set_mode((700, 400))

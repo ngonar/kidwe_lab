@@ -5,13 +5,113 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9244c8f2-908c-449a-9a7a-1a57970143d3" name="Changes" comment="camel case ok">
-      <change afterPath="$PROJECT_DIR$/Algorithm/max_spending.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/score_dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/KidWe_CodingClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KidWe_CodingClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/caesar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/README.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/aacircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/aliens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/arraydemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/asprite.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/audiocapture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/blend_fill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/blit_blends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/chimp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/collision_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/cursors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/BGR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/alien1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/alien1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/alien1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/alien2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/alien2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/alien3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/alien3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/arraydemo.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/asprite.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/black.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/blue.mpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/bomb.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/boom.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/brick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/car_door.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/chimp.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/danger.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/explosion1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/fist.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/green.pcx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/grey.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/house_lo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/house_lo.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/house_lo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/laplacian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/liquid.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/midikeys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/oldplayer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/player1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/punch.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/purple.xpm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/red.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/sans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/secosmic_lo.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/shot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/static.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/turquoise.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/whiff.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/yellow.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/data/yuv_1.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/dropevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/eventlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/fastevents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/font_viewer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/fonty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/freetype_misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/glcube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/growing_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/headless_no_windows_needed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/joystick_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/joystick__game_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/jumping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/jumping_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/liquid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/mask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/midi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/moveit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/music_drop_fade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/ngonar/brick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/ngonar/platform_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/ngonar/pygame_001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/overlay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/pixelarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/playmus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/prevent_display_stretching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/resizing_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/scaletest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/scrap_clipboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/scroll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/setmodescale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/sound.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/sound_array_demos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/sprite_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/sprite_texture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/testsprite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/textinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/vgrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyGame/video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/dino_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/dino_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/go_go_go.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/go_go_go.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm/pygame_bouncing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/pygame_bouncing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/variable_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/variable_assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyBrick/movement.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyBrick/movement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/pygame_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/pygame_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/story_teller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/story_teller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/turtle_star.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/turtle_star.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyGame/game_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGame/game_001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyGame/game_002.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGame/game_002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +139,40 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.baccarat_01.executor": "Run",
+    "Python.caesar_cipher.executor": "Run",
+    "Python.camera.executor": "Run",
+    "Python.collision_001.executor": "Run",
+    "Python.cursors.executor": "Run",
     "Python.dino_3.executor": "Run",
     "Python.draw_shape.executor": "Run",
     "Python.game_001.executor": "Run",
+    "Python.game_002.executor": "Run",
+    "Python.game_003.executor": "Run",
+    "Python.glcube.executor": "Run",
     "Python.go_go_go.executor": "Run",
+    "Python.growing_tree.executor": "Run",
+    "Python.hanoi_tower_stack_movement.executor": "Run",
+    "Python.joystick_1.executor": "Run",
+    "Python.joystick__game_1.executor": "Run",
+    "Python.jumping.executor": "Run",
+    "Python.jumping_2.executor": "Run",
+    "Python.liquid.executor": "Run",
+    "Python.mask.executor": "Run",
     "Python.math_001.executor": "Run",
     "Python.max_spending.executor": "Run",
+    "Python.midi.executor": "Run",
+    "Python.moveit.executor": "Run",
+    "Python.pixelarray.executor": "Run",
+    "Python.playmus.executor": "Run",
+    "Python.prevent_display_stretching.executor": "Run",
     "Python.pygame_bouncing.executor": "Run",
     "Python.pygame_image.executor": "Run",
+    "Python.scaletest.executor": "Run",
     "Python.score_dictionary.executor": "Run",
+    "Python.snake.executor": "Run",
+    "Python.sprite_test.executor": "Run",
+    "Python.spritesheet.executor": "Run",
+    "Python.stars.executor": "Run",
     "Python.turtle_circle.executor": "Run",
     "Python.turtle_equilateral_triangle.executor": "Run",
     "Python.turtle_rectangle.executor": "Run",
@@ -58,7 +183,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/iwansaputra/Documents/kidwe_lab",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/admin/PycharmProjects/CodingClass/PyGame",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,11 +194,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\PycharmProjects\CodingClass\PyGame" />
+      <recent name="C:\Users\admin\PycharmProjects\CodingClass\PyGame\data" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
-        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.180" />
+        <option value="bundled-python-sdk-85c76a3b01b3-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
@@ -93,6 +225,20 @@
       <workItem from="1737853138272" duration="4905000" />
       <workItem from="1737927157718" duration="654000" />
       <workItem from="1739820362108" duration="849000" />
+      <workItem from="1739919026632" duration="44000" />
+      <workItem from="1740218615389" duration="11000" />
+      <workItem from="1741835005610" duration="1400000" />
+      <workItem from="1743131890473" duration="4115000" />
+      <workItem from="1743250206545" duration="1579000" />
+      <workItem from="1743559330501" duration="15000" />
+      <workItem from="1743559358987" duration="10000" />
+      <workItem from="1747275219840" duration="4595000" />
+      <workItem from="1749086942162" duration="2436000" />
+      <workItem from="1749279065638" duration="741000" />
+      <workItem from="1752810312209" duration="1610000" />
+      <workItem from="1753323887452" duration="2200000" />
+      <workItem from="1753390305785" duration="10221000" />
+      <workItem from="1753567278715" duration="9875000" />
     </task>
     <task id="LOCAL-00001" summary="camel case ok">
       <option name="closed" value="true" />
@@ -121,21 +267,59 @@
     <option name="LAST_COMMIT_MESSAGE" value="camel case ok" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kidwe_lab$variable_assignment.coverage" NAME="variable_assignment Coverage Results" MODIFIED="1737853199346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$go_go_go.coverage" NAME="go_go_go Coverage Results" MODIFIED="1734811853819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$pygame_bouncing.coverage" NAME="pygame_bouncing Coverage Results" MODIFIED="1739821201514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$scaletest.coverage" NAME="scaletest Coverage Results" MODIFIED="1753407820076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$jumping.coverage" NAME="jumping Coverage Results" MODIFIED="1753414664041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$liquid.coverage" NAME="liquid Coverage Results" MODIFIED="1753407729416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$draw_shape.coverage" NAME="draw_shape Coverage Results" MODIFIED="1747275674899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$joystick_1.coverage" NAME="joystick_1 Coverage Results" MODIFIED="1753568765423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$collision_001.coverage" NAME="collision_001 Coverage Results" MODIFIED="1753400773168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$growing_tree.coverage" NAME="growing_tree Coverage Results" MODIFIED="1753327632102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1749087329265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$game_003.coverage" NAME="game_003 Coverage Results" MODIFIED="1753406410044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$dino_3.coverage" NAME="dino_3 Coverage Results" MODIFIED="1743132405730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$draw_shape.coverage" NAME="draw_shape Coverage Results" MODIFIED="1734896550656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$game_001.coverage" NAME="game_001 Coverage Results" MODIFIED="1739820546161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$turtle_equilateral_triangle.coverage" NAME="turtle_equilateral_triangle Coverage Results" MODIFIED="1747275288308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$turtle_rectangle.coverage" NAME="turtle_rectangle Coverage Results" MODIFIED="1734837159159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$pygame_image.coverage" NAME="pygame_image Coverage Results" MODIFIED="1739820433388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$baccarat_01.coverage" NAME="baccarat_01 Coverage Results" MODIFIED="1734899311950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$dino_3.coverage" NAME="dino_3 Coverage Results" MODIFIED="1734899388464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$turtle_spiral.coverage" NAME="turtle_spiral Coverage Results" MODIFIED="1734830284975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$max_spending.coverage" NAME="max_spending Coverage Results" MODIFIED="1737498713956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$score_dictionary.coverage" NAME="score_dictionary Coverage Results" MODIFIED="1737500445857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$turtle_circle.coverage" NAME="turtle_circle Coverage Results" MODIFIED="1734897676794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$moveit.coverage" NAME="moveit Coverage Results" MODIFIED="1753407769948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$turtle_equilateral_triangle.coverage" NAME="turtle_equilateral_triangle Coverage Results" MODIFIED="1743131982148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$turtle_equilateral_triangle.coverage" NAME="turtle_equilateral_triangle Coverage Results" MODIFIED="1734837473536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
-    <SUITE FILE_PATH="coverage/kidwe_lab$turtle_star.coverage" NAME="turtle_star Coverage Results" MODIFIED="1734852078890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$sprite_test.coverage" NAME="sprite_test Coverage Results" MODIFIED="1753407395294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$mask.coverage" NAME="mask Coverage Results" MODIFIED="1753407746192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$game_001.coverage" NAME="game_001 Coverage Results" MODIFIED="1753403624362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$turtle_star.coverage" NAME="turtle_star Coverage Results" MODIFIED="1743251173031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$score_dictionary.coverage" NAME="score_dictionary Coverage Results" MODIFIED="1737500445857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$turtle_spiral.coverage" NAME="turtle_spiral Coverage Results" MODIFIED="1734830284975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$dino_3.coverage" NAME="dino_3 Coverage Results" MODIFIED="1734899388464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$playmus.coverage" NAME="playmus Coverage Results" MODIFIED="1753407802356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$pixelarray.coverage" NAME="pixelarray Coverage Results" MODIFIED="1753407795414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$turtle_spiral.coverage" NAME="turtle_spiral Coverage Results" MODIFIED="1743132010109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$baccarat_01.coverage" NAME="baccarat_01 Coverage Results" MODIFIED="1734899311950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$pygame_image.coverage" NAME="pygame_image Coverage Results" MODIFIED="1747275316735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$game_002.coverage" NAME="game_002 Coverage Results" MODIFIED="1753403929217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$dino_3.coverage" NAME="dino_3 Coverage Results" MODIFIED="1752810331335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$spritesheet.coverage" NAME="spritesheet Coverage Results" MODIFIED="1753403914215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$midi.coverage" NAME="midi Coverage Results" MODIFIED="1753407777648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$game_001.coverage" NAME="game_001 Coverage Results" MODIFIED="1739820546161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$stars.coverage" NAME="stars Coverage Results" MODIFIED="1753407825920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$turtle_spiral.coverage" NAME="turtle_spiral Coverage Results" MODIFIED="1747275629919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/kidwe_lab$math_001.coverage" NAME="math_001 Coverage Results" MODIFIED="1734819123056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$variable_assignment.coverage" NAME="variable_assignment Coverage Results" MODIFIED="1737853199346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$turtle_star.coverage" NAME="turtle_star Coverage Results" MODIFIED="1743249919493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$glcube.coverage" NAME="glcube Coverage Results" MODIFIED="1753407693978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$camera.coverage" NAME="camera Coverage Results" MODIFIED="1753405213665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/CodingClass$snake.coverage" NAME="snake Coverage Results" MODIFIED="1753390432077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$go_go_go.coverage" NAME="go_go_go Coverage Results" MODIFIED="1734811853819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$turtle_circle.coverage" NAME="turtle_circle Coverage Results" MODIFIED="1734897676794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$cursors.coverage" NAME="cursors Coverage Results" MODIFIED="1753405230615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$pygame_bouncing.coverage" NAME="pygame_bouncing Coverage Results" MODIFIED="1739821201514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$prevent_display_stretching.coverage" NAME="prevent_display_stretching Coverage Results" MODIFIED="1753407812233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$turtle_circle.coverage" NAME="turtle_circle Coverage Results" MODIFIED="1743131960232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$turtle_star.coverage" NAME="turtle_star Coverage Results" MODIFIED="1734852078890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$joystick__game_1.coverage" NAME="joystick__game_1 Coverage Results" MODIFIED="1753585249858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
+    <SUITE FILE_PATH="coverage/KidWe_CodingClass$hanoi_tower_stack_movement.coverage" NAME="hanoi_tower_stack_movement Coverage Results" MODIFIED="1739850026495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$max_spending.coverage" NAME="max_spending Coverage Results" MODIFIED="1737498713956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$pygame_bouncing.coverage" NAME="pygame_bouncing Coverage Results" MODIFIED="1747275442779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/kidwe_lab$pygame_image.coverage" NAME="pygame_image Coverage Results" MODIFIED="1739820433388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
+    <SUITE FILE_PATH="coverage/CodingClass$jumping_2.coverage" NAME="jumping_2 Coverage Results" MODIFIED="1753568925082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyGame" />
   </component>
 </project>

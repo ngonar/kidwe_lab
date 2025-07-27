@@ -8,7 +8,7 @@ pygame.init()
 size=[400,300]
 screen = pygame.display.set_mode(size)
 
-pygame.display.set_caption("Kidwe Lab Coding Class")
+pygame.display.set_caption("Coding Class")
 
 done = False
 clock = pygame.time.Clock()

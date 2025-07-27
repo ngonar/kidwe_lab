@@ -1,5 +1,5 @@
 age = 10
-name = "KidWe Lab"
+name = "Takapuna Normal Intermedia School"
 song = "Christmas Eve"
 food = "Pizza"
 number = 7

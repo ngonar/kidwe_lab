@@ -1,13 +1,15 @@
 import pygame
 from pygame.display import set_caption
 
-set_caption("KidWe Lab - Coding Class")
+set_caption("Coding Class")
 
 pygame.init()
 screen = pygame.display.set_mode((500, 500))
 clock = pygame.time.Clock()
 running = True
 dt = 0
+
+wall_touched = False
 
 player_pos = pygame.Vector2(screen.get_width()/2, screen.get_height()/2)
 
@@ -18,7 +20,14 @@ while running:
 
     screen.fill((122, 220, 180))
 
-    pygame.draw.circle(screen, (252, 185, 0), player_pos, 40)
+    player = pygame.draw.circle(screen, (252, 185, 0), player_pos, 40)
+
+    if not wall_touched:
+        wall = pygame.draw.rect(screen,"green",(50,50,100,100))
+
+    if player.colliderect(wall) and not wall_touched:
+        print("collision")
+        wall_touched = True
 
     keys = pygame.key.get_pressed()
     if keys[pygame.K_UP]:
